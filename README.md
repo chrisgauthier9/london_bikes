@@ -1,6 +1,10 @@
 # READ ME
 
 ## Project Links
+
+> [GitHub](https://github.com/chrisgauthier9/london_bikes.git)
+> 
+
 > [Tableau](https://public.tableau.com/shared/JZDRGH7D5?:display_count=n&:origin=viz_share_link)
 > 
 
@@ -44,13 +48,11 @@ This project aims to analyze data from the London public bike-sharing system to 
 
 The project involves the creation of a dashboard in Tableau to analyze bike sharing data in London. It includes the following steps:
 
-1. **Data Preparation**: Acquiring, cleaning, and preparing the cycling dataset obtained from TfL's data service, along with weather data and UK bank holiday information.
-2. **Exploratory Data Analysis**: Analyzing the dataset to understand its structure, identify patterns, and explore relationships between variables.
-3. **Visualization Development**: Using Tableau to create visually appealing and informative visualizations, including charts, graphs, and dashboards.
-4. **Insight Generation**: Deriving insights from the visualizations to understand factors influencing bike sharing behavior, such as weather conditions, holidays, weekends, and seasons.
+1. **Data Preparation**: Acquiring, cleaning, and preparing the cycling dataset obtained from TfL's data service, along with weather data and UK bank holiday information. This involves extensive Python and Pandas work, including data cleaning, standardizing data formats, handling missing values, removing duplicates, merging datasets, and engineering new features to create a unified dataset for analysis.
+2. **Exploratory Data Analysis**: Analyzing the dataset using Pandas to understand its structure, identify patterns, and explore relationships between variables. 
+3. **Visualization Development**: Using Tableau to create visually appealing and informative visualizations, including charts, graphs, and dashboards. 
+4. **Insight Generation**: Deriving insights from the visualizations to understand factors influencing bike sharing behavior, such as weather conditions, holidays, weekends, and seasons. 
 5. **Dashboard Creation**: Designing and building an interactive dashboard that provides a comprehensive overview of bike sharing trends and patterns in London.
-6. **Validation and Testing**: Ensuring the accuracy and functionality of the dashboard by validating the data and conducting thorough testing.
-7. **Documentation and Sharing**: Documenting the project process and findings, and sharing the dashboard with stakeholders for feedback and insights.
 
 ## **Acknowledgments**
 
